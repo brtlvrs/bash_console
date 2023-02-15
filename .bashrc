@@ -1,7 +1,7 @@
 # https://github.com/magicmonty/bash-git-prompt
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
-https://github.com/magicmonty/bash-git-prompt
+# https://github.com/magicmonty/bash-git-prompt
 if [ -f "$HOME/.bash-git-prompt/gitprompt.sh" ]; then
 
   GIT_PROMPT_ONLY_IN_REPO=1
